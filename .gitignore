@@ -1,0 +1,26 @@
+# Output files #
+#######################
+*.o
+*.a
+*.bin
+*.elf
+*.hex
+*.lst
+*.map
+
+# Makefile target files #
+#########################
+dirs
+program
+
+# Eclipse & other editor files #
+#########################
+.project
+.cproject
+*~
+*.swp
+
+# Log files #
+#############
+*.log
+
